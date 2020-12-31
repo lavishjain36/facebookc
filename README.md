@@ -1,5 +1,54 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+npm run build==to deploy
+
+firebase deploy
+
+https://facebook-clone-3b007.web.app
+
+
+2.FOr material UI,copy the following command in terminal
+1.Install material core ui
+
+npm install @material-ui/core
+
+2.Install material icon
+// with npm
+npm install @material-ui/icons
+
+
+For Firebase with to store data
+type in cmd
+//to have firebase depenedency in our project
+npm i firebase
+
+
+
+Firebase Deployment
+firebase login
+
+firebase init
+
+
+ENter y
+Hit spacebar on hosting
+
+use existing
+
+what do you want to use as a public directory?
+build
+
+
+configure as a single page app
+yes
+bcoz react is a single page app
+
+//TO create an optimized app
+npm run build
+
+//TO deploy
+firebase deploy
+
 ## Available Scripts
 
 In the project directory, you can run:
